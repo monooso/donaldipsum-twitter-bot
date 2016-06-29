@@ -3,6 +3,8 @@ All notable changes to this project will be documented in this file. This projec
 
 ## [Unreleased] ##
 ### Changed ###
+- Use `git://` protocol for Donald Ipsum API Client dependency.
+
 ### Added ###
 ### Fixed ###
 
