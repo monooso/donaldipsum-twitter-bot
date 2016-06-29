@@ -10,7 +10,7 @@ The bot requires that the @DonaldIpsum [Twitter OAuth tokens][tokens] be provide
 [tokens]: https://dev.twitter.com/oauth/overview/application-owner-access-tokens "Twitter developer documentation"
 
 | Name                          | Description             |
-|:-----------------------------:|:-----------------------:|
+|:------------------------------|:------------------------|
 | `TWITTER_ACCESS_TOKEN_KEY`    | The access token key    |
 | `TWITTER_ACCESS_TOKEN_SECRET` | The access token secret |
 | `TWITTER_CONSUMER_KEY`        | The consumer key        |
