@@ -10,10 +10,6 @@
   "keywords": [],
   "author": "Stephen Lewis",
   "license": "MIT",
-  "devDependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^2.5.3"
-  },
   "dependencies": {
     "donaldipsum-api-client": "git+ssh://git@github.com/monooso/donaldipsum-api-client.git#v0.1.0",
     "twitter": "^1.3.0"
