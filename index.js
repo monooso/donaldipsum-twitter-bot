@@ -91,7 +91,7 @@ function tweetMessage(message) {
  * Retrieve all the best words from the DonaldIpsum API, and post them to Twitter.
  */
 function tweetAllTheBestWords() {
-    donaldClient.getSentences(1).then(handleSuccess).catch(handleError);
+    donaldClient.getParagraphs(1).then(handleSuccess).catch(handleError);
 }
 
 // Run all the things.
