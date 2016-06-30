@@ -3,10 +3,13 @@ All notable changes to this project will be documented in this file. This projec
 
 ## [Unreleased] ##
 ### Changed ###
-- Use `git://` protocol for Donald Ipsum API Client dependency.
-
 ### Added ###
 ### Fixed ###
+
+## [0.2.0] - 2016-06-30 ##
+### Changed ###
+- Use `git://` protocol for Donald Ipsum API Client dependency.
+- Retrieve a single paragraph from the API, rather than a single sentence.
 
 ## 0.1.0 - 2016-06-29 ##
 ### Added ###
@@ -15,4 +18,5 @@ All notable changes to this project will be documented in this file. This projec
 - Basic documentation, in the form of a README.
 - Tis CHANGELOG.
 
-[Unreleased]: https://github.com/monooso/donaldipsum-twitter-bot/compare/v0.1.0...HEAD
+[0.2.0]: https://github.com/monooso/donaldipsum-twitter-bot/compare/v0.1.0...0.2.0
+[Unreleased]: https://github.com/monooso/donaldipsum-twitter-bot/compare/v0.2.0...HEAD

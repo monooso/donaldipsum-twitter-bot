@@ -1,6 +1,6 @@
 {
   "name": "donaldipsum-twitter-bot",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Bot which retrieves a pearl of wisdom from the Donald Ipsum API, and posts it as @DonaldIpsum.",
   "main": "index.js",
   "scripts": {
